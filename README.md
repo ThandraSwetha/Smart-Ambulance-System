@@ -4,6 +4,8 @@ A real-time emergency response platform featuring an AI-powered voice assistant,
 
 ## 🚀 Features
 
+For a detailed breakdown of the system architecture and component integration, please refer to the [Integration Summary](INTEGRATION_SUMMARY.md).
+
 ### 🎙️ AI Voice Assistant
 - **Interactive Triage**: Automated emergency assessment using browser-native Speech Recognition and Synthesis.
 - **Multi-Language Support**: Full support for **English**, **Telugu**, and **Hindi**.
